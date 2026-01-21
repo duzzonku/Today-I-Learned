@@ -479,6 +479,7 @@ def my_function(x, y, z):
 my_dict = {'x': 1, 'y': 2, 'z': 3}
 my_function(**my_dict)  # 1 2 3
 ```
+<img width="780" height="120" alt="Image" src="https://github.com/user-attachments/assets/0d3a8751-ff78-4e2f-815d-a9f6edc47914" />
 ---
 
 ## 람다 표현식
