@@ -479,9 +479,6 @@ def my_function(x, y, z):
 my_dict = {'x': 1, 'y': 2, 'z': 3}
 my_function(**my_dict)  # 1 2 3
 ```
-
-![image.png](image.png)
-
 ---
 
 ## 람다 표현식
