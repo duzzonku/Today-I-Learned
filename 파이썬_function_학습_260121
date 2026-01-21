@@ -505,7 +505,7 @@ my_dict = {'x': 1, 'y': 2, 'z': 3}
 my_function(**my_dict)  # 1 2 3
 ```
 
-![image.png](image%2012.png)
+![image.png](attachment:708d301d-0e76-4827-b0b0-7ad4aaa9c72d:image.png)
 
 ---
 
