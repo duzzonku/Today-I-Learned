@@ -195,13 +195,13 @@ print(url.strip('w.com'))
 # 1. 공백을 기준으로 분리 (기본 동작)
 # - 여러 개의 공백도 하나로 처리하며, 앞뒤 공백은 무시함
 text = '  Hello    Python  '
-print(None)
+print(' ')
 # 결과: ['Hello', 'Python’]
 
 # 2. 특정 문자를 기준으로 분리
 # - 지정한 문자를 기준으로 '엄격하게' 분리함 (빈 문자열 발생 가능)
 data = '10,20,,30'
-print(None)
+print(',')
 # 결과: ['10', '20', '', '30']
 
 # 3. 분할 횟수 제한 (maxsplit)
